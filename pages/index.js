@@ -96,7 +96,7 @@ export default function Home() {
       <div className=' grid grid-cols-1  l:grid-cols-2  md:grid-cols-2 h-screen w-full' >
         {/* text and bg picture */}
         <div className='hidden   w-full md:block bg-gradient-to-tr from-gray-500 to-gray-500 relative'>
-          <img src='https://sellingdelawarehomes.com/delaware-real-estate/wp-content/uploads/2019/07/Arranging-Furniture-photo.jpg' className='w-full h-full object-cover absolute mix-blend-overlay' />
+          <image src='https://sellingdelawarehomes.com/delaware-real-estate/wp-content/uploads/2019/07/Arranging-Furniture-photo.jpg' className='w-full h-full object-cover absolute mix-blend-overlay' />
 
           <div className='py-36 px-12 p-5 '>
             <p className=' text-white'>The Future Of</p>
