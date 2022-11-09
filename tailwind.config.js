@@ -6,7 +6,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        'contact-input': '#F2F0F0',
+        'colony-purple': '#502179',
+        'colony-light':'#8A6BA6'
+      },
+      backgroundImage: {
+        'hero-pattern': "url('/Screenshot (66).png)",
+      }
+    },
   },
-},
   plugins: [],
 }
