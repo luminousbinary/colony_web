@@ -140,9 +140,9 @@ export default function Home() {
 
             <p className='mb-2 text-sm'>Sign Up for Our newsletter updates</p>
 
-            <div className='bg-white rounded-md w-10/12 pl-4'>
-              <input placeholder='Enter your Email' type="email" name="eamil" className='text-black  outline-none text-l w-4/6 gap-2.5' style={{ height: ' 50px ' }} />
-              <button type='Submit' id='subscribe' className='bg-colony-light border border-colony-light px-1 w-fit py-2 rounded-md ' style={{ height: ' 60px ' }}> Subscribe</button>
+            <div className=' flex flex-col-1 flex-wrap text-center bg-white w-10/12 rounded-md pl-4'>
+              <input placeholder='Enter your Email' type="email" name="eamil" className='text-black outline-none w-3/4 text-md gap-2.5' style={{ height: ' 50px ' }} />
+              <button type='Submit' id='subscribe' className='bg-colony-light border border-colony-light px-1 w-1/4 py-2 rounded-md ' style={{ height: ' 60px ' }}> Subscribe</button>
             </div>
 
             <div className='m-1 flex'>
